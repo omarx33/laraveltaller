@@ -5,7 +5,7 @@
 
              <a class="dropdown-item" href="{{ route('alias.index')}}">empleados</a>
               <a class="dropdown-item" href="#">areas</a>
-              <a class="dropdown-item" href="#">clientes</a>
+
 
         </div>
     </li>
